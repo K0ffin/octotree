@@ -48,7 +48,7 @@
     "jpm": "^1.0.4",
     "map-stream": "*",
     "mocha": "2.0.1",
-    "request": "~2.48.0",
+    "request": "~2.87.0",
     "selenium-webdriver": "2.44.0",
     "starx": "~0.1.7",
     "stream-series": "*",
