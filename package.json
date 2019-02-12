@@ -26,7 +26,7 @@
     "chromedriver": "^2.21.2",
     "crx": "^0.4.4",
     "event-stream": "*",
-    "firefox-profile": "~0.3.6",
+    "firefox-profile": "~1.2.0",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "0.0.8",
     "gulp-babel": "^6.1.0",
